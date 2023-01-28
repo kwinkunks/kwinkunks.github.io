@@ -1,4 +1,4 @@
-# About Matt
+# About
 
 Matt originally trained as a geologist (of sorts), then turned himself into a geophysicist (of sorts), and now is a scientific programmer based in Bergen, Norway. 
 
