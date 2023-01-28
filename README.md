@@ -1,3 +1,5 @@
-# Your blog
+# Matt Hall's blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+A Jekyll site to blog in plain Markdown and Jupyter Notebooks. Forked from [Fast.ai's awesome template](https://github.com/fastai/fast_template).
+
+[Deployed here :)](https://kwinkunks.org/)
